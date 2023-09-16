@@ -81,3 +81,5 @@ Berdasarkan Beberapa masalah yang terjadi terkait penjualan kopi di indonesia be
 - Perubahan Selera Konsumen: Selera konsumen terus berubah, dan para produsen harus beradaptasi dengan tren baru dalam kopi, seperti minat terhadap biji kopi spesialis.
 
 - Regulasi Pemerintah: Kebijakan pemerintah terkait dengan ekspor dan impor biji kopi, serta peraturan sanitasi dan keamanan pangan, dapat memengaruhi industri kopi.
+
+Kami berharap dengan adanya aplikasi kami, beberapa masalah di atas dapat terselesaikan, meskipun tidak sempurna dan tidak semua terselesaikan.
