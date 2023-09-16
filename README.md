@@ -62,7 +62,7 @@
   - Pengenalan Suara: Izinkan pengguna untuk memberikan ulasan verbal tentang biji kopi yang mereka beli, dan gunakan teknologi pengenalan suara untuk mengubahnya menjadi teks yang dapat dianalisis.
  
 ### Alasan Membuat Aplikasi Ini
-Berdasarkan Beberapa masalah yang terjadi terkait penjualan kopi di indonesia berdasarkan laporan pasar kopi, studi sektor pertanian, dan laporan dari organisasi industri seperti Asosiasi Kopi Indonesia (AKI) dan Badan Pengelolaan Perdagangan Berjangka Komoditi (Bappebti). Berikut Beberapa masalah yang muncul :
+Beberapa masalah yang terjadi terkait penjualan kopi di indonesia berdasarkan laporan pasar kopi, studi sektor pertanian, dan laporan dari organisasi industri seperti Asosiasi Kopi Indonesia (AKI) dan Badan Pengelolaan Perdagangan Berjangka Komoditi (Bappebti). Berikut Beberapa masalah yang muncul :
 
 - Fluktuasi Harga: Harga biji kopi sering mengalami fluktuasi yang signifikan karena faktor-faktor seperti perubahan cuaca, penawaran dan permintaan global, dan fluktuasi mata uang. Ini dapat mempengaruhi keuntungan produsen dan pedagang kopi.
 
