@@ -60,3 +60,24 @@
   - Analisis Umpan Balik Pelanggan: Gunakan algoritma untuk menganalisis umpan balik pelanggan secara otomatis dan identifikasi masalah atau tren yang mungkin memerlukan perhatian lebih lanjut.
 
   - Pengenalan Suara: Izinkan pengguna untuk memberikan ulasan verbal tentang biji kopi yang mereka beli, dan gunakan teknologi pengenalan suara untuk mengubahnya menjadi teks yang dapat dianalisis.
+ 
+### Alasan Membuat Aplikasi Ini
+Berdasarkan Beberapa masalah yang terjadi terkait penjualan kopi di indonesia berdasarkan laporan pasar kopi, studi sektor pertanian, dan laporan dari organisasi industri seperti Asosiasi Kopi Indonesia (AKI) dan Badan Pengelolaan Perdagangan Berjangka Komoditi (Bappebti). Berikut Beberapa masalah yang muncul :
+
+- Fluktuasi Harga: Harga biji kopi sering mengalami fluktuasi yang signifikan karena faktor-faktor seperti perubahan cuaca, penawaran dan permintaan global, dan fluktuasi mata uang. Ini dapat mempengaruhi keuntungan produsen dan pedagang kopi.
+
+- Kualitas dan Konsistensi: Masalah kualitas dan konsistensi biji kopi seringkali terjadi, terutama di tingkat petani. Variabilitas dalam proses pertanian dan pengolahan dapat memengaruhi kualitas biji kopi.
+
+- Pasar Internasional yang Bersaing: Persaingan di pasar internasional yang kompetitif dapat membuat sulit bagi produsen kopi Indonesia untuk mendapatkan pangsa pasar yang signifikan. Ini dapat mempengaruhi pendapatan ekspor kopi Indonesia.
+
+- Infrastruktur dan Akses Pasar: Masalah terkait infrastruktur, seperti akses ke jalan yang buruk dan kurangnya fasilitas pengolahan yang memadai, dapat menghambat petani dalam mengirimkan biji kopi mereka ke pasar.
+
+- Perubahan Iklim: Perubahan iklim dapat memengaruhi hasil pertanian kopi dan kualitas biji kopi. Musim hujan yang tidak teratur dan peningkatan suhu dapat menjadi ancaman bagi produksi kopi.
+
+- Sertifikasi Berkelanjutan: Meskipun ada minat yang meningkat dalam biji kopi berkelanjutan, seperti biji kopi organik atau berkelanjutan secara sosial, mendapatkan sertifikasi tersebut seringkali memerlukan investasi waktu dan biaya yang tinggi    bagi petani.
+
+- Kurangnya Akses ke Teknologi: Beberapa petani di daerah terpencil mungkin kesulitan mengakses teknologi dan pelatihan yang dapat meningkatkan efisiensi dan kualitas produksi mereka.
+
+- Perubahan Selera Konsumen: Selera konsumen terus berubah, dan para produsen harus beradaptasi dengan tren baru dalam kopi, seperti minat terhadap biji kopi spesialis.
+
+- Regulasi Pemerintah: Kebijakan pemerintah terkait dengan ekspor dan impor biji kopi, serta peraturan sanitasi dan keamanan pangan, dapat memengaruhi industri kopi.
