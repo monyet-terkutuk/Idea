@@ -84,7 +84,7 @@ Beberapa masalah yang terjadi terkait penjualan kopi di indonesia berdasarkan la
 
 Kami berharap dengan adanya aplikasi kami, beberapa masalah di atas dapat terselesaikan, meskipun tidak sempurna dan tidak semua terselesaikan.
 
-# ----------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------
 
 ## Aplikasi Asuransi Pupuk Tani
 * Fitur :
