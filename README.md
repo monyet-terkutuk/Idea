@@ -1,4 +1,4 @@
-# Idea
+# Idea Capstone Project
 
 ## Aplikasi Penjualan Biji Kopi
 * Fitur
@@ -83,3 +83,42 @@ Beberapa masalah yang terjadi terkait penjualan kopi di indonesia berdasarkan la
 - Regulasi Pemerintah: Kebijakan pemerintah terkait dengan ekspor dan impor biji kopi, serta peraturan sanitasi dan keamanan pangan, dapat memengaruhi industri kopi.
 
 Kami berharap dengan adanya aplikasi kami, beberapa masalah di atas dapat terselesaikan, meskipun tidak sempurna dan tidak semua terselesaikan.
+
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Aplikasi Asuransi Pupuk Tani
+* Fitur :
+  - Pendaftaran dan Manajemen Akun: Memungkinkan pengguna untuk mendaftar, membuat, dan mengelola akun mereka dalam aplikasi.
+
+  - Kalkulator Premi: Memungkinkan pengguna untuk menghitung premi asuransi berdasarkan jenis pupuk yang mereka miliki, luas tanah, dan risiko lainnya.
+
+  - Pemilihan Paket Asuransi: Memungkinkan pengguna untuk memilih paket asuransi yang sesuai dengan kebutuhan mereka, seperti asuransi harga pupuk atau asuransi pupuk berkelanjutan.
+
+  - Manajemen Polis: Memberikan pengguna akses ke informasi polis asuransi mereka, termasuk jangka waktu dan cakupan asuransi.
+
+  - Pengajuan Klaim: Memungkinkan pengguna untuk mengajukan klaim asuransi secara online dan melampirkan bukti-bukti yang diperlukan.
+
+  - Verifikasi Klaim: Proses verifikasi klaim oleh penyedia asuransi melalui aplikasi untuk mempercepat proses persetujuan dan pembayaran klaim.
+
+  - Notifikasi dan Peringatan: Mengirimkan notifikasi kepada pengguna mengenai pembayaran premi, jatuh tempo polis, atau perubahan tarif asuransi.
+
+  - Pembayaran Online: Integrasi dengan berbagai metode pembayaran online untuk membantu pengguna membayar premi asuransi dengan mudah.
+
+  - Peta dan Informasi Geografis: Menyediakan informasi geografis yang membantu dalam menentukan risiko dan premi asuransi, seperti peta risiko harga pupuk.
+
+  - Edukasi dan Sumber Informasi: Menyediakan sumber informasi tentang jenis pupuk, praktik pertanian berkelanjutan, dan panduan tentang cara mengelola asuransi pupuk.
+
+  - Histori Transaksi: Menyimpan catatan histori transaksi dan klaim asuransi untuk referensi pengguna.
+
+  - Pusat Bantuan dan Dukungan: Memiliki layanan pelanggan atau pusat bantuan yang dapat diakses oleh pengguna jika mereka memiliki pertanyaan atau masalah.
+
+  - Keamanan Data: Mengintegrasikan fitur keamanan data yang kuat untuk melindungi informasi pribadi dan keuangan pengguna.
+
+  - Pelaporan dan Analitik: Menyediakan alat untuk melacak dan melaporkan statistik klaim, performa asuransi, dan tren harga pupuk.
+
+  - Integrasi dengan Penyedia Asuransi: Memungkinkan integrasi dengan penyedia asuransi yang memungkinkan pengguna membeli asuransi secara langsung melalui aplikasi.
+
+  - Pengaturan Bahasa: Memungkinkan pengguna untuk memilih bahasa yang mereka pahami untuk meningkatkan aksesibilitas aplikasi.
+
+  - Pengingat Polis: Mengirimkan pengingat kepada pengguna sebelum jatuh tempo polis asuransi mereka.
+
