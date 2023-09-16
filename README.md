@@ -121,4 +121,46 @@ Kami berharap dengan adanya aplikasi kami, beberapa masalah di atas dapat tersel
   - Pengaturan Bahasa: Memungkinkan pengguna untuk memilih bahasa yang mereka pahami untuk meningkatkan aksesibilitas aplikasi.
 
   - Pengingat Polis: Mengirimkan pengingat kepada pengguna sebelum jatuh tempo polis asuransi mereka.
+ 
+* Fitur Terkait Machine Learning
+  
+  - Evaluasi Risiko Pemantauan Tanaman: Menggunakan teknik machine learning untuk menganalisis citra satelit dan data cuaca untuk menilai risiko pertumbuhan tanaman. Ini dapat membantu menentukan apakah pupuk akan diperlukan lebih banyak atau         kurang berdasarkan kondisi pertumbuhan aktual.
 
+  - Prediksi Harga Pupuk: Membangun model machine learning untuk memprediksi fluktuasi harga pupuk berdasarkan data historis, tren pasar global, dan faktor-faktor lainnya. Ini dapat membantu petani dan produsen dalam merencanakan pembelian pupuk      dengan lebih baik.
+
+  - Penyesuaian Polis Otomatis: Menggunakan machine learning untuk menentukan penyesuaian polis asuransi pupuk secara otomatis berdasarkan data seperti perubahan harga pupuk atau kondisi cuaca yang buruk.
+
+  - Analisis Klaim Otomatis: Menggunakan teknik machine learning untuk menganalisis klaim asuransi pupuk secara otomatis, memverifikasinya, dan mengeluarkan pembayaran dengan cepat jika klaimnya sah.
+
+  - Saran Manajemen Pupuk: Membangun sistem yang memberikan saran kepada petani tentang jenis pupuk yang harus digunakan, dosis yang optimal, dan waktu aplikasi yang tepat berdasarkan data tanah, cuaca, dan jenis tanaman.
+
+  - Prediksi Kuantitas Pupuk yang Dibutuhkan: Menggunakan machine learning untuk memprediksi jumlah pupuk yang dibutuhkan oleh petani berdasarkan luas lahan, jenis tanaman, dan kondisi tanah.
+
+  - Sistem Peringatan Dini: Membangun sistem yang memberikan peringatan dini kepada petani tentang potensi risiko yang dapat memengaruhi pertumbuhan tanaman, seperti cuaca ekstrem atau serangan hama.
+
+  - Rekomendasi Produk: Memberikan rekomendasi produk-produk pupuk kepada pengguna berdasarkan kebutuhan mereka dan informasi tanah serta cuaca lokal.
+
+  - Manajemen Data Pertanian: Membantu petani dalam mengelola data pertanian mereka, termasuk catatan tentang penggunaan pupuk, hasil panen, dan praktik pertanian berkelanjutan.
+
+  - Analisis Tren Pertanian: Menganalisis tren pertanian berdasarkan data yang dikumpulkan, termasuk jenis pupuk yang paling sering digunakan, tren harga, dan keberhasilan panen.
+
+  - Prediksi Kelayakan Polis: Menggunakan machine learning untuk menentukan kelayakan polis asuransi pupuk bagi petani berdasarkan faktor-faktor seperti sejarah pertanian mereka dan risiko yang terkait.
+
+  - Pengingat Kebutuhan Pupuk: Mengirimkan pengingat kepada petani tentang kapan dan berapa banyak pupuk yang harus digunakan berdasarkan jadwal aplikasi yang disarankan.
+
+### Alasan Membuat Aplikasi Ini
+Beberapa masalah sering terjadi dan sering membuat pupuk menjadi mahal dan sering menyebabkan petani mengalami kerugian, berikut penyebab harga pupuk mahal :
+
+  - Ketergantungan pada Impor: Sebagian besar pupuk yang digunakan di Indonesia harus diimpor dari luar negeri. Ketergantungan pada impor pupuk dapat menyebabkan biaya tambahan seperti biaya pengiriman, tarif, dan perubahan kurs mata uang, yang       semuanya dapat mengerek harga pupuk.
+
+  - Subsidi Pupuk: Pemerintah Indonesia memberikan subsidi untuk pupuk tertentu, terutama pupuk urea, untuk menjaga harga tetap terjangkau bagi petani. Namun, subsidi ini memerlukan anggaran besar dari pemerintah, dan jika anggaran ini terbatas,      maka subsidi tersebut mungkin tidak mencakup seluruh biaya produksi pupuk, sehingga harga jualnya tetap tinggi.
+
+  - Biaya Produksi: Proses produksi pupuk yang melibatkan bahan-bahan kimia dan energi dapat menjadi mahal. Kenaikan harga bahan baku, biaya energi, dan biaya produksi dapat mempengaruhi harga pupuk.
+
+  - Pasar Global: Harga pupuk dunia dapat berfluktuasi, tergantung pada faktor-faktor seperti harga energi, permintaan global, dan produksi. Fluktuasi ini dapat memengaruhi harga pupuk di Indonesia, terutama jika terjadi kenaikan harga secara         global.
+
+  - Distribusi dan Transportasi: Biaya distribusi dan transportasi juga dapat menambah harga pupuk, terutama jika pupuk harus diangkut ke daerah-daerah yang terpencil atau sulit diakses.
+
+  - Regulasi dan Pajak: Regulasi pemerintah terkait dengan perdagangan pupuk, pajak, dan bea masuk juga dapat memengaruhi harga pupuk. Perubahan dalam peraturan ini dapat berdampak pada harga.
+
+  - Spesifikasi dan Jenis Pupuk: Harga pupuk juga dapat bervariasi berdasarkan jenis dan spesifikasi pupuk yang digunakan. Pupuk dengan formulasi atau kandungan nutrisi khusus mungkin lebih mahal daripada pupuk umum.
