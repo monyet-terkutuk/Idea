@@ -163,3 +163,20 @@ Beberapa masalah sering terjadi dan sering membuat pupuk menjadi mahal dan serin
   - Regulasi dan Pajak: Regulasi pemerintah terkait dengan perdagangan pupuk, pajak, dan bea masuk juga dapat memengaruhi harga pupuk. Perubahan dalam peraturan ini dapat berdampak pada harga.
 
   - Spesifikasi dan Jenis Pupuk: Harga pupuk juga dapat bervariasi berdasarkan jenis dan spesifikasi pupuk yang digunakan. Pupuk dengan formulasi atau kandungan nutrisi khusus mungkin lebih mahal daripada pupuk umum.
+
+
+
+
+## Metamask Frasa
+1. resource
+2. tilt
+3. sweet
+4. truth
+5. lamp
+6. ugly
+7. pudding
+8. version
+9. inspire
+10. retire
+11. reform
+12. sniff
