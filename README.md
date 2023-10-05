@@ -180,3 +180,13 @@ Beberapa masalah sering terjadi dan sering membuat pupuk menjadi mahal dan serin
 10. retire
 11. reform
 12. sniff
+
+
+## Langkah Freelance
+- Pilih mau masuk market apa, misal jual logo, tapi logo khusus apa? youtuber? perusahaan bank? restaurant dll.
+- Sedikan service yang beda dari yang lain dan membuat terlihat profesional,
+  1. Penampilan yang meyakinkan "baju bagus dan bersih"
+  2. Service layanan yang baik, seperti ramah dan terlihat profesional
+  3. Tingkatkan softskill komunikasi
+  4. Menyediakan service yg profesianal, seperti report progress berkala, dan menyediakan prototype yg bisa di demo
+  5. Jika ingin jual service murah, berikan service service dasar (tidak spesial) tapi katakan klo bayar lebih mahal harga bisa naik, misal jika ingin ada prototype, konsultasi , dan service lebih maka harga bisa lebih naik
