@@ -164,6 +164,13 @@ Beberapa masalah sering terjadi dan sering membuat pupuk menjadi mahal dan serin
 
   - Spesifikasi dan Jenis Pupuk: Harga pupuk juga dapat bervariasi berdasarkan jenis dan spesifikasi pupuk yang digunakan. Pupuk dengan formulasi atau kandungan nutrisi khusus mungkin lebih mahal daripada pupuk umum.
 
+# Sistem Rekomendasi Pembangunan Rumah
+- deteksi ukuran tahan
+- rekomendasi rumah
+- rekomendasi arsitek arsitek
+- service tukang
+- rekomendasi tata letak
+
 
 
 
